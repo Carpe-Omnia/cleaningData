@@ -1,4 +1,5 @@
 # cleaningData
+READ CODEBOOK IN CODE FORMAT
 Coursera Data Science Specialization. Module 3 Course Project
 Submission by Tomaz Rodrigues in January 2025
 The goal of this project is to write an R code file that downloads a set of motion data and turns it from 
